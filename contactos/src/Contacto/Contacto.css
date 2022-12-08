@@ -1,0 +1,20 @@
+p{
+ color: rgb(0, 0, 0); 
+font-family: Arial, Helvetica, sans-serif;
+ background-color: lightskyblue;
+height: 50px;
+width: 200px;
+border: 7px;
+margin-left: 43%;
+border-radius: 5px;
+}
+button{
+    color: black;
+    border-radius: 7px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightsteelblue;
+ }
+
+
+
